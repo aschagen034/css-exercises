@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class {
+    background-color: rgb(238, 157, 157);
+    font-size: 22px;
+}
+
+.cool-class {
+    font-size: 32px;
+}
+
+#numtwo {
+    color: blue;
+    font-size: 42px;
+    
+}
+#numfour {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 30px;
+}
