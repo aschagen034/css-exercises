@@ -13,13 +13,13 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  margin-bottom: 36px;
+  margin-bottom: 32px;
 }
 
 .container {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 52px;
 }
 
 .info {
